@@ -1,0 +1,23 @@
+{
+  "name": "permit",
+  "version": "1.0.0",
+  "description": "A site for trying various tutorials in your place.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdityaKumarRavikanti/permit.git"
+  },
+  "author": "AdityaRavikanti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdityaKumarRavikanti/permit/issues"
+  },
+  "homepage": "https://github.com/AdityaKumarRavikanti/permit",
+  "dependencies": {
+    "express": "^4.12.4",
+    "express-handlebars": "^2.0.1"
+  }
+}
